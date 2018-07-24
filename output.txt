@@ -1,0 +1,6 @@
+ error = 0.000050 operation time = 278.210669
+Centers of the clusters :
+cluster: 0:	 (0.000135	-0.000168)
+cluster: 1:	 (0.000714	99.999352)
+cluster: 2:	 (100.000359	100.000839)
+cluster: 3:	 (119.999611	0.000381)
