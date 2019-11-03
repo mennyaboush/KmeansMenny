@@ -13,3 +13,19 @@ performing computational operations himself it also sends and receives data from
 Using omp, each computer uses a large number of threads to perform the calculations required for the algorithm
 
 And through cuda, the processing power of the GPU is used.
+
+in this project the data read from the file input.txt
+every row is a point 
+all the points has 4 values
+x, y represent the information values.
+Whereas deltaX and deltaY represent the change in the info that occurred in time
+
+the output.txt file created in the end of the program and here example 
+error = 0.000050 operation time = 278.210669
+Centers of the clusters :
+cluster: 0:	 (0.000135	-0.000168)
+cluster: 1:	 (0.000714	99.999352)
+cluster: 2:	 (100.000359	100.000839)
+cluster: 3:	 (119.999611	0.000381)
+
+
